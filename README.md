@@ -1,4 +1,5 @@
 ***Shortcut:
+
 1: Ctrl + Alt + I  OR Alt + Space for showing the program
 2: Ctrl + Alt + M for Minimize
 3: Ctrl + Alt + C for Closing the program

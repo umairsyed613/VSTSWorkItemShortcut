@@ -19,7 +19,7 @@ open the config file change the following:
 </setting>
 ```
 ## URL Example
-https://companyname.visualstudio.com/MMSYS/_workitems/edit/
+https://companyname.visualstudio.com/ProjectName/_workitems/edit/
 
 ![alt text](https://github.com/umairsyed613/VSTSWorkItemShortcut/blob/master/2018-11-16_10h07_47.png)
 ![alt text](https://github.com/umairsyed613/VSTSWorkItemShortcut/blob/master/2018-11-16_10h12_08.png)
